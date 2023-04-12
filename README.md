@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **farhadiitju@gmail.com**
 
-- ⚡ Fun fact **I've 4-5 years competitive programming experience!**
+- ⚡ Fun fact **I've 5+ years competitive programming experience!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
