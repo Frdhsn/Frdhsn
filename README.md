@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working with **Java, Spring Boot, Kotlin, Angular, React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Frdhsn?tab=repositories](https://github.com/Frdhsn?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Frdhsn?tab=repositories](https://github.com/mfarhadhossain?tab=repositories)
 
 - 💬 Ask me about **Algorithms, Data Structures**
 
@@ -109,8 +109,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frdhsn&show_icons=true&locale=en&layout=compact" alt="frdhsn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfarhadhossain&show_icons=true&locale=en&layout=compact" alt="mfarhadhossain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frdhsn&show_icons=true&locale=en" alt="frdhsn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfarhadhossain&show_icons=true&locale=en" alt="mfarhadhossain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frdhsn&" alt="frdhsn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfarhadhossain&" alt="mfarhadhossain" /></p>
