@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frdhsn&label=Profile%20views&color=0e75b6&style=flat" alt="frdhsn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frdhsn" alt="frdhsn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhadhossain" alt="frdhsn" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/frdhsn01" target="blank"><img src="https://img.shields.io/twitter/follow/frdhsn01?logo=twitter&style=for-the-badge" alt="frdhsn01" /></a> </p>
 
 - 🌱 I’m currently working with **Java, Spring Boot, Kotlin, Angular, React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Frdhsn?tab=repositories](https://github.com/mfarhadhossain?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/farhadhossain?tab=repositories](https://github.com/mfarhadhossain?tab=repositories)
 
 - 💬 Ask me about **Algorithms, Data Structures**
 
